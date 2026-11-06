@@ -426,3 +426,28 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# === Personal additions ===
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Passwords and secrets (CRITICAL - NEVER COMMIT THESE)
+*.key
+*.pem
+secrets/
+credentials.txt
+passwords.txt
+
+# Local notes
+notes-private/
+TODO-private.md
