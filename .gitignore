@@ -451,3 +451,8 @@ passwords.txt
 # Local notes
 notes-private/
 TODO-private.md
+*.key
+privatekey*
+*.pem
+*.pfx
+.env
