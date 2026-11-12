@@ -456,3 +456,8 @@ privatekey*
 *.pem
 *.pfx
 .env
+*.key
+privatekey*
+*.pem
+*.pfx
+.env
