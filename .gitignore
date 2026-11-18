@@ -461,3 +461,4 @@ privatekey*
 *.pem
 *.pfx
 .env
+.obsidian/
